@@ -1,10 +1,10 @@
 # FullStack
 
-<center>
+<div align="center">
     <a href="http://g.readmeads.com/readme" target="_blank">
         <img src="https://assets.readmeads.com/ReadMeAds.png" />
     </a>
-</center>
+</div>
 
 
 This is a platform I began building for a client. After he signed and I started working he decided to pivot and not pay me. Sometimes you get screwed in business but at least now I have a cool boilerplate to give away.
