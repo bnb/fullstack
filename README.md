@@ -11,6 +11,7 @@ This is a platform I began building for a client. After he signed and I started 
         <img src="https://assets.readmeads.com/ReadMeAds.png" />
     </a>
 </center>
+
 ## What is this?
 
 This project was supposed to be an app where users receive benefits for paying their rent through the platform as opposed to check or bank transfer. Since this repo rose to the top of _Hacker News_, _r/programming_ and _Github_ I have decided it deserves a new life. So allow me to reintroduce it as a full-stack boilerplate with my current top picks for tech I like to use on client work.
