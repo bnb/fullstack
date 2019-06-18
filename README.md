@@ -1,16 +1,17 @@
 # FullStack
 
-This is a platform I began building for a client. After he signed and I started working he decided to pivot and not pay me. Sometimes you get screwed in business but at least now I have a cool boilerplate to give away.
-
-[follow me on Twitter](https://twitter.com/TrillCyborg) - [follow the designer](https://twitter.com/traf)
-
-![fullstack.gif](https://i.imgur.com/jYb4YQL.gif)
-
 <center>
     <a href="http://g.readmeads.com/readme" target="_blank">
         <img src="https://assets.readmeads.com/ReadMeAds.png" />
     </a>
 </center>
+
+
+This is a platform I began building for a client. After he signed and I started working he decided to pivot and not pay me. Sometimes you get screwed in business but at least now I have a cool boilerplate to give away.
+
+[follow me on Twitter](https://twitter.com/TrillCyborg) - [follow the designer](https://twitter.com/traf)
+
+![fullstack.gif](https://i.imgur.com/jYb4YQL.gif)
 
 ## What is this?
 
