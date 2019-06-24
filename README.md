@@ -3,6 +3,8 @@
 <div align="center">
     <a href="http://g.readmeads.com/readme" target="_blank">
         <img src="https://assets.readmeads.com/ReadMeAds.png?" />
+        <img src="https://s3.amazonaws.com/assets.readmeads.com/ReadMeAds.png?" />
+        
     </a>
 </div>
 
