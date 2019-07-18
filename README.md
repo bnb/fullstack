@@ -1,12 +1,13 @@
 # FullStack
 
-<div align="center">
-    <a href="http://g.readmeads.com/readme" target="_blank">
-        <img src="https://assets.readmeads.com/ReadMeAds.png?" />
-        <img src="https://s3.amazonaws.com/assets.readmeads.com/ReadMeAds.png?" />
-        
-    </a>
-</div>
+
+## Sponsors
+
+<a href="http://g.readmeads.com/readme" target="_blank">
+    <img src="https://assets.readmeads.com/ReadMeAds.png?" />
+</a>
+
+FullStack is proudly supported by [ReadMeAds](http://g.readmeads.com/readme).  ReadMeAds is the best way to start passively monetizing the open source work that you do.  
 
 
 This is a platform I began building for a client. After he signed and I started working he decided to pivot and not pay me. Sometimes you get screwed in business but at least now I have a cool boilerplate to give away.
