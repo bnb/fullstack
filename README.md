@@ -9,16 +9,9 @@
 
 FullStack is proudly supported by [ReadMeAds](http://g.readmeads.com/readme).  ReadMeAds is the best way to start passively monetizing the open source work that you do.  
 
-
-This is a platform I began building for a client. After he signed and I started working he decided to pivot and not pay me. Sometimes you get screwed in business but at least now I have a cool boilerplate to give away.
-
-[follow me on Twitter](https://twitter.com/TrillCyborg) - [follow the designer](https://twitter.com/traf)
-
-![fullstack.gif](https://i.imgur.com/jYb4YQL.gif)
-
 ## What is this?
 
-This project was supposed to be an app where users receive benefits for paying their rent through the platform as opposed to check or bank transfer. Since this repo rose to the top of _Hacker News_, _r/programming_ and _Github_ I have decided it deserves a new life. So allow me to reintroduce it as a full-stack boilerplate with my current top picks for tech I like to use on client work.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam at commodo dolor. Ut blandit ante quis dolor pretium porttitor. Aenean viverra nisi sit amet justo porttitor blandit. Mauris accumsan, lectus nec elementum maximus, justo libero ultrices ante, a auctor dui urna id risus. In porta in turpis vel vestibulum. Proin fringilla eleifend libero, et consequat augue semper vel. Phasellus sit amet placerat tortor. Etiam in nisl urna. Praesent dignissim, arcu in vehicula malesuada, arcu mi scelerisque felis, congue finibus ex est pharetra odio. Sed tempus suscipit neque, vitae sagittis purus eleifend nec. Suspendisse faucibus iaculis leo cursus vehicula. Nam condimentum in purus ut elementum. Nullam varius vehicula orci, rutrum bibendum lacus malesuada vitae. Maecenas bibendum dolor vel sem convallis, et convallis enim commodo.
 
 If you're trying to expand into some of the technologies I'm using here, star it, fork it and start playing! Feel free to find my email at the bottom of [my site](https://trxrg.com/) and reach out with any questions.
 
